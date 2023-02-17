@@ -20,5 +20,5 @@ width: 500px;
 height: 500px;
 background-color: blue;
 }
-</stle>
+</style>
 <div class="test"> THIS IS A TEST </div>
