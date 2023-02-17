@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Beaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=beauxbarker&show_icons=true&theme=synthwave)
+![Beaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=beauxbarker&show_icons=true&theme=tokyonight)
