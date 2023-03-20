@@ -94,7 +94,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://codeSTACKr.com](https://www.linkedin.com/in/beaux-barker
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/beaux_dev
 [youtube]: https://youtube.com/codeSTACKr
