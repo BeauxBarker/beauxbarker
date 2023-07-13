@@ -1,6 +1,5 @@
 ### Hi there, I'm Beaux 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2FLinkedIn.com)](https://www.linkedin.com/in/beaux-barker)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Beaux_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbeaux_dev&screen_name=beaux_dev)
 
@@ -8,8 +7,7 @@
 
 ## Front End Web Developer
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js & NodeJS
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2023 Goals: Learn more about Web3
 - ⚡ Fun fact: I love 3d modeling
